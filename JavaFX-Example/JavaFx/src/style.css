@@ -1,0 +1,13 @@
+/* style.css */
+.my-button {
+  -fx-background-color: #3498db;
+  -fx-text-fill: white;
+  -fx-font-size: 16px;
+  -fx-padding: 10px 20px;
+  -fx-background-radius: 5px;
+}
+.result-label {
+  -fx-font-size: 14px;
+  -fx-text-fill: #2c3e50;
+  -fx-padding: 10px 0 0 0;
+}
